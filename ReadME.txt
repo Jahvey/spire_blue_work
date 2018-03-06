@@ -1,1 +1,1 @@
-有关学习pdf文件结构的相关知识
+Learning the knowledges of pdf.
