@@ -1,0 +1,52 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>concat_splice</title>
+
+
+    <script src="../ch02js/splice1.js"></script>
+    <!--<script src="../ch02js/concat_splice.js"></script>-->
+
+</head>
+<body>
+    <div  style="text-align:center">  array02   concat_splice</div>
+    <article>
+
+        <section>       concat() 和 splice() 方法允许通过已有数组创建新数组。 concat 方法可以合并多个数组创建一个新数组， splice() 方法截取一个数组的子集创建一个新数组。</section>
+        <section>
+            我们先来看看 concat() 方法的工作原理。 该方法的发起者是一个数组， 参数是另一个数组。 作为参数的数组， 其中的所有元素都被连接到调用 concat() 方法的数组后面。 下面的程序展示了 concat() 方法的工作原理：
+
+        </section>
+        <!--code表示计算机代码。只是表示是计算机代码，但是不会保存代码格式，需要配合pre使用-->
+
+        <pre style="text-align:left;">  
+        <code>
+         var cisDept = ["Mike", "Clayton", "Terrill", "Danny", "Jennifer"];
+         var dmpDept = ["Raymond", "Cynthia", "Bryan"];
+         var itDiv = cis.concat(dmp);
+         print(itDiv);
+         itDiv = dmp.concat(cisDept);
+         print(itDiv);
+         输出为：
+         Mike,Clayton,Terrill,Danny,Jennifer,Raymond,Cynthia,Bryan
+         Raymond,Cynthia,Bryan,Mike,Clayton,Terrill,Danny,Jennifer
+     </code>
+</pre>
+        第一行首先输出 cis 数组里的元素， 第二行首先输出 dmp 数组里的元素。
+        splice() 方法从现有数组里截取一个新数组。 该方法的第一个参数是截取的起始索引 第二个参数是截取的长度。 下面的程序展示了 splice() 方法的工作原理：
+       <pre>
+<code>
+        var itDiv = ["Mike","Clayton","Terrill","Raymond","Cynthia","Danny","Jennifer"];
+        var dmpDept = itDiv.splice(3,3);
+        var cisDept = itDiv;
+        print(dmpDept); // Raymond,Cynthia,Danny
+        print(cisDept); // Mike,Clayton,Terrill,Jennifer
+            </code>
+</pre>
+        splice() 方法还有其他用法， 比如为一个数组增加或移除元素， 具体请参见 Mozilla
+        Developer Network 页面（http://mzl.la/1gmmlQ5）.
+    </article>
+</body>
+</html>
