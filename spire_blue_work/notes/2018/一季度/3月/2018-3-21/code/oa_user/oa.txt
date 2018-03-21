@@ -1,0 +1,7 @@
+https://192.168.1.94:8443/secure/ManageRapidViews.jspa
+
+
+
+用户名:	adonai.wang
+邮件:	adonai@dingtalk.com
+全称:	Adonai Wang
