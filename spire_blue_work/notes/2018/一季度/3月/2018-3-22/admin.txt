@@ -1,0 +1,9 @@
+远程开发机,用远程桌面连接
+192.1681.39
+ 用户名:adonai.wang
+密码:IG+xZ9:X89a2
+
+https://192.168.1.94:8443/secure/Dashboard.jspa
+用户名:adonai.wang
+密码:e-iceblue
+
