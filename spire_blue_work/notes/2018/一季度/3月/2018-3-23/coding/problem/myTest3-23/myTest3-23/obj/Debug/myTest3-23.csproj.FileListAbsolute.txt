@@ -1,0 +1,9 @@
+c:\users\administrator\documents\visual studio 2013\Projects\pydemo\myTest3-23\myTest3-23\bin\Debug\myTest3-23.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\pydemo\myTest3-23\myTest3-23\bin\Debug\myTest3-23.exe
+c:\users\administrator\documents\visual studio 2013\Projects\pydemo\myTest3-23\myTest3-23\bin\Debug\myTest3-23.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\pydemo\myTest3-23\myTest3-23\bin\Debug\Spire.License.dll
+c:\users\administrator\documents\visual studio 2013\Projects\pydemo\myTest3-23\myTest3-23\bin\Debug\Spire.Pdf.dll
+c:\users\administrator\documents\visual studio 2013\Projects\pydemo\myTest3-23\myTest3-23\bin\Debug\Spire.Pdf.xml
+c:\users\administrator\documents\visual studio 2013\Projects\pydemo\myTest3-23\myTest3-23\obj\Debug\myTest3-23.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\pydemo\myTest3-23\myTest3-23\obj\Debug\myTest3-23.exe
+c:\users\administrator\documents\visual studio 2013\Projects\pydemo\myTest3-23\myTest3-23\obj\Debug\myTest3-23.pdb
