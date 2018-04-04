@@ -1,0 +1,12 @@
+D:\360WiFi\c++\ds\study03\TestMatrixProject\TestMatrix\bin\Debug\TestMatrix.exe.config
+D:\360WiFi\c++\ds\study03\TestMatrixProject\TestMatrix\obj\Debug\TestMatrix.csprojResolveAssemblyReference.cache
+D:\360WiFi\c++\ds\study03\TestMatrixProject\TestMatrix\bin\Debug\TestMatrix.exe
+D:\360WiFi\c++\ds\study03\TestMatrixProject\TestMatrix\bin\Debug\TestMatrix.pdb
+D:\360WiFi\c++\ds\study03\TestMatrixProject\TestMatrix\obj\Debug\TestMatrix.exe
+D:\360WiFi\c++\ds\study03\TestMatrixProject\TestMatrix\obj\Debug\TestMatrix.pdb
+D:\搜狗高速下载\TestMatrixProject\TestMatrixProject\TestMatrix\bin\Debug\TestMatrix.exe.config
+D:\搜狗高速下载\TestMatrixProject\TestMatrixProject\TestMatrix\obj\Debug\TestMatrix.exe
+D:\搜狗高速下载\TestMatrixProject\TestMatrixProject\TestMatrix\obj\Debug\TestMatrix.pdb
+D:\搜狗高速下载\TestMatrixProject\TestMatrixProject\TestMatrix\bin\Debug\TestMatrix.exe
+D:\搜狗高速下载\TestMatrixProject\TestMatrixProject\TestMatrix\bin\Debug\TestMatrix.pdb
+D:\搜狗高速下载\TestMatrixProject\TestMatrixProject\TestMatrix\obj\Debug\TestMatrix.csprojResolveAssemblyReference.cache

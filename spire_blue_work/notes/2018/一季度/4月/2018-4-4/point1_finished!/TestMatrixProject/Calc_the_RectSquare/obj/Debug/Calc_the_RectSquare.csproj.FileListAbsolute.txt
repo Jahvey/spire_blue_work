@@ -1,0 +1,6 @@
+D:\搜狗高速下载\TestMatrixProject\TestMatrixProject\Calc_the_RectSquare\bin\Debug\Calc_the_RectSquare.exe.config
+D:\搜狗高速下载\TestMatrixProject\TestMatrixProject\Calc_the_RectSquare\bin\Debug\Calc_the_RectSquare.exe
+D:\搜狗高速下载\TestMatrixProject\TestMatrixProject\Calc_the_RectSquare\bin\Debug\Calc_the_RectSquare.pdb
+D:\搜狗高速下载\TestMatrixProject\TestMatrixProject\Calc_the_RectSquare\obj\Debug\Calc_the_RectSquare.csprojResolveAssemblyReference.cache
+D:\搜狗高速下载\TestMatrixProject\TestMatrixProject\Calc_the_RectSquare\obj\Debug\Calc_the_RectSquare.exe
+D:\搜狗高速下载\TestMatrixProject\TestMatrixProject\Calc_the_RectSquare\obj\Debug\Calc_the_RectSquare.pdb
