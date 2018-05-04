@@ -1,0 +1,22 @@
+
+
+Spire.Pdf.6eneral.Render.PdfElement.PdfFontStructure.ConverlinvalidChars(string text) Line 4181 + 0x19 bytes
+
+Spire.Pdf.6eneral.Render.PdfElement.PdfFontStructure.GetDecodedTextWithOneToOne(string decodeText, string ansiText, bool renderAsTTF) Line 4119 + Oxc bytes
+
+Spire.Pdf.6eneral.Render.PdfToImageRenderer.BuildTTFFont(Spire.Pdf.6eneral.Paper.Drawing.Fonts.PdfExternalFontCache docSelfFontCache) Line 1450 + 0x45 bytes
+
+Spire.Pdf.PdfDocumentBase.SaveTTFFont(int pagelndex, bool autoWarning) Line 2414
+
+Spire.Pdf.Common.PdfToSvgConverter.UnicodeFontConversion(Spire.Pdf.PdfDocumentBase layouter, inttotalPageCount) Line 166 
+
+Spire.Pdf.Common.PdfToSvgConverter.ConvertToSvg(Spire.Pdf.PdfDocumentBase pdfDocument, string fileName, bool CompressToZip, int starlindex, intendlndex) Line 2l|
+
+Spire.Pdf.PdfDocumentBase.SaveToSvg(strinq fileName, int starlindex, int endlndex)
+
+Spire.Pdf.PdfDocumentBa$e.SaveToSvg(string fileName) Line 1437
+
+Spire.Pdf.PdfDocumentBa$e.Save(string fileName, Spire.Pdf.FileFormatfileformat) Line 1232
+
+Spire.Pdf.PdfDocument.SaveToFile(string filename, Spire.Pdf.FileFormatfileFormat) Line 1430
+
