@@ -1,0 +1,8 @@
+C:\Users\Administrator\documents\visual studio 2013\Projects\pydemo\WinFromDemo0100\WinFormDemo0102\bin\Debug\WinFormDemo0102.exe
+C:\Users\Administrator\documents\visual studio 2013\Projects\pydemo\WinFromDemo0100\WinFormDemo0102\bin\Debug\WinFormDemo0102.pdb
+C:\Users\Administrator\documents\visual studio 2013\Projects\pydemo\WinFromDemo0100\WinFormDemo0102\obj\Debug\WinFormDemo0102.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\documents\visual studio 2013\Projects\pydemo\WinFromDemo0100\WinFormDemo0102\obj\Debug\WinFormDemo0102.Form1.resources
+C:\Users\Administrator\documents\visual studio 2013\Projects\pydemo\WinFromDemo0100\WinFormDemo0102\obj\Debug\WinFormDemo0102.Properties.Resources.resources
+C:\Users\Administrator\documents\visual studio 2013\Projects\pydemo\WinFromDemo0100\WinFormDemo0102\obj\Debug\WinFormDemo0102.csproj.GenerateResource.Cache
+C:\Users\Administrator\documents\visual studio 2013\Projects\pydemo\WinFromDemo0100\WinFormDemo0102\obj\Debug\WinFormDemo0102.exe
+C:\Users\Administrator\documents\visual studio 2013\Projects\pydemo\WinFromDemo0100\WinFormDemo0102\obj\Debug\WinFormDemo0102.pdb
