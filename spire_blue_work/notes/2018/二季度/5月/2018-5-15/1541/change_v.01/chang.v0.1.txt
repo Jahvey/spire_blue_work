@@ -1,0 +1,71 @@
+pdf2xps
+
+17error
+
+-->BaselineFile-51   exception
+
+-->BaselineFile-9    assert
+
+-->BaselineFile-58    assert
+
+-->BaselineFile-36    assert
+
+-->BaselineFile-61    assert
+
+-->BaselineFile-57    assert
+
+-->BaselineFile-95    exception
+
+-->Fx-Bug-107-2    exception
+
+-->BaselineFile-93   exception
+
+-->Fx-Bug-103    exception
+
+-->Fx-Bug-101   assert
+
+-->BaselineFile-2    assert
+
+-->BaselineFile-38    assert
+
+-->Fx-Bug-94    assert
+
+-->BaselineFile-18    exception
+
+-->BaselineFile-65    exception
+
+-->BaselineFile-48    exception
+
+
+
+
+
+
+
+BUGFree-364
+1error
+
+BUGFree-2670
+1error
+
+BUG578
+12pass
+1error
+
+-->BUG-578-9
+
+BUG1010
+2error
+-->BUG-1010-1-1
+-->BUG-1010-1-2
+
+
+
+
+
+total error:23
+
+
+
+
+
