@@ -1,0 +1,5 @@
+C:\Users\Administrator\documents\visual studio 2013\Projects\pydemo\moreOrlessDelgate01\001-delegate01\bin\Debug\001-delegate01.exe
+C:\Users\Administrator\documents\visual studio 2013\Projects\pydemo\moreOrlessDelgate01\001-delegate01\bin\Debug\001-delegate01.pdb
+C:\Users\Administrator\documents\visual studio 2013\Projects\pydemo\moreOrlessDelgate01\001-delegate01\obj\Debug\001-delegate01.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\documents\visual studio 2013\Projects\pydemo\moreOrlessDelgate01\001-delegate01\obj\Debug\001-delegate01.exe
+C:\Users\Administrator\documents\visual studio 2013\Projects\pydemo\moreOrlessDelgate01\001-delegate01\obj\Debug\001-delegate01.pdb

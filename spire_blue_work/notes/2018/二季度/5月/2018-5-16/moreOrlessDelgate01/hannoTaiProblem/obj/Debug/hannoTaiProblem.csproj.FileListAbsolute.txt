@@ -1,0 +1,5 @@
+C:\Users\Administrator\documents\visual studio 2013\Projects\pydemo\moreOrlessDelgate01\hannoTaiProblem\bin\Debug\hannoTaiProblem.exe
+C:\Users\Administrator\documents\visual studio 2013\Projects\pydemo\moreOrlessDelgate01\hannoTaiProblem\bin\Debug\hannoTaiProblem.pdb
+C:\Users\Administrator\documents\visual studio 2013\Projects\pydemo\moreOrlessDelgate01\hannoTaiProblem\obj\Debug\hannoTaiProblem.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\documents\visual studio 2013\Projects\pydemo\moreOrlessDelgate01\hannoTaiProblem\obj\Debug\hannoTaiProblem.exe
+C:\Users\Administrator\documents\visual studio 2013\Projects\pydemo\moreOrlessDelgate01\hannoTaiProblem\obj\Debug\hannoTaiProblem.pdb

@@ -1,0 +1,5 @@
+C:\Users\Administrator\documents\visual studio 2013\Projects\pydemo\moreOrlessDelgate01\GenMaxValue\bin\Debug\GenMaxValue.exe
+C:\Users\Administrator\documents\visual studio 2013\Projects\pydemo\moreOrlessDelgate01\GenMaxValue\bin\Debug\GenMaxValue.pdb
+C:\Users\Administrator\documents\visual studio 2013\Projects\pydemo\moreOrlessDelgate01\GenMaxValue\obj\Debug\GenMaxValue.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\documents\visual studio 2013\Projects\pydemo\moreOrlessDelgate01\GenMaxValue\obj\Debug\GenMaxValue.exe
+C:\Users\Administrator\documents\visual studio 2013\Projects\pydemo\moreOrlessDelgate01\GenMaxValue\obj\Debug\GenMaxValue.pdb
